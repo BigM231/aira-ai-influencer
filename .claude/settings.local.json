@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npx --yes create-vite@latest . --template react)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(npx vite *)",
+      "Bash(lsof -ti:5173)",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260123_115549_918618ed-8658-4655-af88-593591999949.png\"  \"/Users/alec/Desktop/Ai Influencer/public/inf/i1.png\")",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260207_165022_521146a4-0198-4852-b41b-b53b36d52258.png\"  \"/Users/alec/Desktop/Ai Influencer/public/inf/i2.png\")",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260211_121637_595a4039-0afc-45fc-b6fd-cc7db16f766e.jpeg\" \"/Users/alec/Desktop/Ai Influencer/public/inf/i3.jpg\")",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260211_121642_721b374a-4965-4f9e-b8c4-d7247f761dd4.jpeg\" \"/Users/alec/Desktop/Ai Influencer/public/inf/i4.jpg\")",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260309_132059_4637a9d4-9fcb-42d4-ab4f-6f182a256232.png\"  \"/Users/alec/Desktop/Ai Influencer/public/inf/i5.png\")",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
