@@ -21,7 +21,11 @@
       "Bash(git branch *)",
       "Bash(git push *)",
       "mcp__claude_ai_Higgsfield__generate_image",
-      "mcp__claude_ai_Higgsfield__job_status"
+      "mcp__claude_ai_Higgsfield__job_status",
+      "mcp__claude_ai_Higgsfield__models_explore",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260514_062307_7deea82f-50d5-44fe-9d5a-f29a159a6907.png\" \"/Users/alec/Desktop/Ai Influencer/public/inf/i15.png\")",
+      "Bash(cp \"/Users/alec/Downloads/hf_20260514_062115_66a4e064-08ef-4f28-94bb-a098d4c7f470.png\" \"/Users/alec/Desktop/Ai Influencer/public/inf/i16.png\")",
+      "WebSearch"
     ]
   }
 }
