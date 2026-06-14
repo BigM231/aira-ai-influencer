@@ -1,4 +1,4 @@
-# AI Influencer Studio
+# Aira Studio
 
 A local-first web app for building, managing, and generating AI influencers.
 React + Vite frontend, Higgsfield for image & video generation, your own

@@ -1,5 +1,5 @@
 ====================================================
-  AI INFLUENCER STUDIO — SETUP GUIDE
+  AIRA STUDIO — SETUP GUIDE
 ====================================================
 
 Follow these steps in order. No tech experience needed.

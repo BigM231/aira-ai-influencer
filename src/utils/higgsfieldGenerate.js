@@ -228,7 +228,7 @@ export async function initSession() {
     params: {
       protocolVersion: '2024-11-05',
       capabilities: { tools: {} },
-      clientInfo: { name: 'AI Influencer Studio', version: '1.0' },
+      clientInfo: { name: 'Aira Studio', version: '1.0' },
     },
   })
 }
